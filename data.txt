@@ -1,0 +1,3 @@
+id,Name,mobilenumber
+1,Nithin,9676622023
+2,Thriwshwanth,9676622024
